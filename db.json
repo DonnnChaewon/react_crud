@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id": "ebe8",
+      "name": "Example",
+      "category": "Sample",
+      "price": "Not for sale",
+      "description": "This is a description of as product."
+    },
+    {
+      "id": "39a1",
+      "name": "Aku Siapa",
+      "category": "Tebak-tebakan",
+      "price": "Rp. 5.000",
+      "description": "Bayar 5 ribu rupiah untuk menebak siapakah aku yang sebenarnya. Mendapatkan 5 ribu rupiah jika tebakan benar."
+    },
+    {
+      "id": "504d",
+      "name": "Jangan Kepo",
+      "category": "Warning",
+      "price": "Tidak untuk dilihat",
+      "description": "Jadi orang jangan kepo karena bisa membuat orang lain tidak nyaman dan tidak menyukai Anda."
+    }
+  ]
+}
